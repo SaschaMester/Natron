@@ -83,7 +83,7 @@ qrc_*.cpp
 [Rr]elease/
 x64/
 build/
-[Bb]in/
+# [Bb]in/
 [Oo]bj/
 *autobuild*
 # MSTest test Results
